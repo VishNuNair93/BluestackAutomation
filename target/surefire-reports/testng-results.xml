@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="BluestackPackage.BSTest" duration-ms="570989" started-at="2021-02-04T21:51:00 IST" finished-at="2021-02-04T22:00:31 IST">
+  <suite name="BluestackPackage.BSTest" duration-ms="493698" started-at="2021-02-04T22:29:03 IST" finished-at="2021-02-04T22:37:17 IST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="570989" started-at="2021-02-04T21:51:00 IST" finished-at="2021-02-04T22:00:31 IST">
+    <test name="Command line test" duration-ms="493698" started-at="2021-02-04T22:29:03 IST" finished-at="2021-02-04T22:37:17 IST">
       <class name="BluestackPackage.BSTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:BluestackPackage.BSTest@31ef45e3]" name="initialize" is-config="true" duration-ms="2464" started-at="2021-02-04T21:51:00 IST" finished-at="2021-02-04T21:51:02 IST">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BluestackPackage.BSTest@31ef45e3]" name="initialize" is-config="true" duration-ms="1923" started-at="2021-02-04T22:29:03 IST" finished-at="2021-02-04T22:29:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="readGameData()[pri:0, instance:BluestackPackage.BSTest@31ef45e3]" name="readGameData" duration-ms="568078" started-at="2021-02-04T21:51:02 IST" finished-at="2021-02-04T22:00:30 IST">
+        <test-method status="PASS" signature="readGameData()[pri:0, instance:BluestackPackage.BSTest@31ef45e3]" name="readGameData" duration-ms="491264" started-at="2021-02-04T22:29:05 IST" finished-at="2021-02-04T22:37:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readGameData -->
-        <test-method status="PASS" signature="shutdown()[pri:0, instance:BluestackPackage.BSTest@31ef45e3]" name="shutdown" is-config="true" duration-ms="417" started-at="2021-02-04T22:00:30 IST" finished-at="2021-02-04T22:00:31 IST">
+        <test-method status="PASS" signature="shutdown()[pri:0, instance:BluestackPackage.BSTest@31ef45e3]" name="shutdown" is-config="true" duration-ms="483" started-at="2021-02-04T22:37:17 IST" finished-at="2021-02-04T22:37:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shutdown -->
