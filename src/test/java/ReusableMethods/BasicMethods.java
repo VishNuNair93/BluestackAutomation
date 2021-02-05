@@ -1,6 +1,5 @@
 package ReusableMethods;
 
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -9,17 +8,19 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.util.Properties;
+import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BasicMethods {
 
 	WebDriver driver;
-	
+
 	public String readFromConfig(String key) {
 		String value = null;
 
@@ -41,10 +42,7 @@ public class BasicMethods {
 
 	public WebDriver launchBrowser(String browserName) {
 
-		switch (browserName) {
-
-		case "chrome":
-		case "CHROME":
+		if (browserName.equalsIgnoreCase("chrome")) {
 			System.out.println("Invoking Chrome");
 
 			ChromeOptions opt = new ChromeOptions();
@@ -53,8 +51,18 @@ public class BasicMethods {
 			System.setProperty("webdriver.chrome.driver", "res\\drivers\\chromedriver.exe");
 			driver = new ChromeDriver(opt);
 
+		} else if (browserName.equalsIgnoreCase("firefox")) {
+			System.out.println("Invoking Firefox");
+
+			System.setProperty("webdriver.gecko.driver", "res\\drivers\\geckodriver.exe");
+			driver = new FirefoxDriver();
+			driver.manage().window().maximize();
+
+		} else {
+			System.out.println("Choose valid browser - Chrome or Firefox");
 		}
 
+		driver.manage().timeouts().implicitlyWait(3000, TimeUnit.SECONDS);
 		return driver;
 
 	}
@@ -85,5 +93,5 @@ public class BasicMethods {
 		int responseCode = conn.getResponseCode();
 		return responseCode;
 	}
-	
+
 }

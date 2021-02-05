@@ -1,16 +1,16 @@
 #					Game name					Page URL					Page Status					Tournament count
 1					Garena Free Fire Tournaments					https://www.game.tv/find-tournaments/garena-free-fire-spooky-night-tournaments					200					332,790
-2					Brawl Stars Tournaments					https://www.game.tv/find-tournaments/brawl-stars-tournaments					200					85,589
-3					Clash Royale Tournaments					https://www.game.tv/find-tournaments/clash-royale-tournaments					200					12,014
-4					PUBG MOBILE Tournaments					https://www.game.tv/find-tournaments/pubg-mobile-tournaments					200					18,389
-5					Call of Duty Tournaments					https://www.game.tv/find-tournaments/call-of-duty-tournaments					200					19,083
-6					Clash of Clans Tournaments					https://www.game.tv/find-tournaments/clash-of-clans-tournaments					200					6,078
+2					Brawl Stars Tournaments					https://www.game.tv/find-tournaments/brawl-stars-tournaments					200					85,683
+3					Clash Royale Tournaments					https://www.game.tv/find-tournaments/clash-royale-tournaments					200					12,018
+4					PUBG MOBILE Tournaments					https://www.game.tv/find-tournaments/pubg-mobile-tournaments					200					18,401
+5					Call of Duty Tournaments					https://www.game.tv/find-tournaments/call-of-duty-tournaments					200					19,108
+6					Clash of Clans Tournaments					https://www.game.tv/find-tournaments/clash-of-clans-tournaments					200					6,080
 7					8 Ball Pool Tournaments					https://www.game.tv/find-tournaments/8-ball-pool-tournaments					200					7,249
-8					Mobile Legends: Bang Bang Tournaments					https://www.game.tv/find-tournaments/mobile-legends-bang-bang-tournaments					200					4,510
+8					Mobile Legends: Bang Bang Tournaments					https://www.game.tv/find-tournaments/mobile-legends-bang-bang-tournaments					200					4,512
 9					Arena of Valor Tournaments					https://www.game.tv/find-tournaments/arena-of-valor-tournaments					200					3,498
 10					Auto Chess Tournaments					https://www.game.tv/find-tournaments/auto-chess-tournaments					200					1,442
-11					Rumble Stars Football Tournaments					https://www.game.tv/find-tournaments/rumble-stars-football-tournaments					200					3,013
-12					Head Ball 2 Tournaments					https://www.game.tv/find-tournaments/head-ball-2-tournaments					200					1,210
+11					Rumble Stars Football Tournaments					https://www.game.tv/find-tournaments/rumble-stars-football-tournaments					200					3,014
+12					Head Ball 2 Tournaments					https://www.game.tv/find-tournaments/head-ball-2-tournaments					200					1,211
 13					Yu-Gi-Oh! Duel Links Tournaments					https://www.game.tv/find-tournaments/yu-gi-oh-duel-links-tournaments					200					1,417
 14					Ludo King Tournaments					https://www.game.tv/find-tournaments/ludo-king-tournaments					200					3,198
 15					Hearthstone Tournaments					https://www.game.tv/find-tournaments/hearthstone-tournaments					200					1,272
@@ -20,16 +20,16 @@
 19					Fortnite Tournaments					https://www.game.tv/find-tournaments/fortnite-tournaments					200					1,576
 20					FIFA Soccer Tournaments					https://www.game.tv/find-tournaments/fifa-soccer-tournaments					200					707
 21					Royal Dice : Random Defense Tournaments					https://www.game.tv/find-tournaments/royal-dice-random-defense-tournaments					200					815
-22					Animal Tower Battle Tournaments					https://www.game.tv/find-tournaments/animal-tower-battle-tournaments					200					5,427
+22					Animal Tower Battle Tournaments					https://www.game.tv/find-tournaments/animal-tower-battle-tournaments					200					5,428
 23					Bloons TD Battles Tournaments					https://www.game.tv/find-tournaments/bloons-td-battles-tournaments					200					313
 24					Smashing four Tournaments					https://www.game.tv/find-tournaments/smashing-four-tournaments					200					796
 25					Badland Brawl Tournaments					https://www.game.tv/find-tournaments/badland-brawl-tournaments					200					594
-26					Captain Tsubasa: Dream Team Tournaments					https://www.game.tv/find-tournaments/captain-tsubasa-dream-team-tournaments					200					467
-27					DRAGON BALL LEGENDS Tournaments					https://www.game.tv/find-tournaments/dragon-ball-legends-tournaments					200					506
+26					Captain Tsubasa: Dream Team Tournaments					https://www.game.tv/find-tournaments/captain-tsubasa-dream-team-tournaments					200					468
+27					DRAGON BALL LEGENDS Tournaments					https://www.game.tv/find-tournaments/dragon-ball-legends-tournaments					200					507
 28					Cyber Hunter Tournaments					https://www.game.tv/find-tournaments/cyber-hunter-tournaments					200					340
 29					Saint Seiya Awakening: Knights of the Zodiac Tournaments					https://www.game.tv/find-tournaments/saint-seiya-awakening-knights-of-the-zodiac-tournaments					200					373
 30					Skidstorm Tournaments					https://www.game.tv/find-tournaments/skidstorm-tournaments					200					838
-31					Rocket League Tournaments					https://www.game.tv/find-tournaments/rocket-league-tournaments					200					823
+31					Rocket League Tournaments					https://www.game.tv/find-tournaments/rocket-league-tournaments					200					824
 32					Shadowverse CCG Tournaments					https://www.game.tv/find-tournaments/shadowverse-ccg-tournaments					200					173
 33					The King of Fighters ALLSTAR Tournaments					https://www.game.tv/find-tournaments/the-king-of-fighters-allstar-tournaments					200					420
 34					Soccer Stars Tournaments					https://www.game.tv/find-tournaments/soccer-stars-tournaments					200					3,457
@@ -39,7 +39,7 @@
 38					Counter Strike: Global Offensive Tournaments					https://www.game.tv/find-tournaments/counter-strike-global-offensive-tournaments					200					673
 39					Fortnite PC Tournaments					https://www.game.tv/find-tournaments/fortnite-pc-tournaments					200					1,286
 40					BnB M Tournaments					https://www.game.tv/find-tournaments/bnb-m-tournaments					200					75
-41					League of Legends: LoL Tournaments					https://www.game.tv/find-tournaments/league-of-legends-lol-tournaments					200					1,495
+41					League of Legends: LoL Tournaments					https://www.game.tv/find-tournaments/league-of-legends-lol-tournaments					200					1,496
 42					Castle Burn - RTS Revolution Tournaments					https://www.game.tv/find-tournaments/castle-burn-rts-revolution-tournaments					200					80
 43					Chess · Play & Learn Tournaments					https://www.game.tv/find-tournaments/chess-play-learn-tournaments					200					
 44					Counter Attack - Multiplayer FPS Tournaments					https://www.game.tv/find-tournaments/counter-attack-multiplayer-fps-tournaments					200					96
@@ -62,17 +62,17 @@
 61					Minecraft Tournaments					https://www.game.tv/find-tournaments/-minecraft-tournaments					200					519
 62					Overwatch Tournaments					https://www.game.tv/find-tournaments/overwatch-tournaments					200					86
 63					??? ?? (Eos Red) Tournaments					https://www.game.tv/find-tournaments/eoseu-redeu-eos-red-tournaments					200					17
-64					Super Smash Bros. Ultimate Tournaments					https://www.game.tv/find-tournaments/-super-smash-bros.-ultimate-tournaments					200					109
+64					Super Smash Bros. Ultimate Tournaments					https://www.game.tv/find-tournaments/-super-smash-bros.-ultimate-tournaments					200					
 65					Paladins Tournaments					https://www.game.tv/find-tournaments/-paladins-tournaments					200					45
 66					TEPPEN Tournaments					https://www.game.tv/find-tournaments/teppen-tournaments					200					17
 67					Pokémon sword and shield Tournaments					https://www.game.tv/find-tournaments/-pok%C3%A9mon-sword-and-shield--tournaments					200					35
-68					Standoff 2 Tournaments					https://www.game.tv/find-tournaments/-standoff-2-tournaments					200					766
+68					Standoff 2 Tournaments					https://www.game.tv/find-tournaments/-standoff-2-tournaments					200					767
 69					MTG Arena Tournaments					https://www.game.tv/find-tournaments/-mtg%E3%80%80arena-tournaments					200					79
 70					Critical Ops: Multiplayer FPS Tournaments					https://www.game.tv/find-tournaments/critical-ops-multiplayer-fps-tournaments					200					86
 71					Modern Warfare Tournaments					https://www.game.tv/find-tournaments/-modern-warfare-tournaments					200					146
 72					Baram Tournaments					https://www.game.tv/find-tournaments/baram-tournaments					200					29
 73					Legends of Runeterra Tournaments					https://www.game.tv/find-tournaments/-legends-of-runeterra-tournaments					200					236
-74					Call of duty : Warzone Tournaments					https://www.game.tv/find-tournaments/-call-of-duty-:-warzone--tournaments					200					1,471
+74					Call of duty : Warzone Tournaments					https://www.game.tv/find-tournaments/-call-of-duty-:-warzone--tournaments					200					1,472
 75					Garena Speed Drifters Tournaments					https://www.game.tv/find-tournaments/garena-speed-drifters-tournaments					200					13
 76					GTA 5 Tournaments					https://www.game.tv/find-tournaments/-gta-5--tournaments					200					47
 77					???? (FortressGo) Tournaments					https://www.game.tv/find-tournaments/hong-a-tan-ke-fortressgo-tournaments					200					16
@@ -88,7 +88,7 @@
 87					Frag Pro Shooter Tournaments					https://www.game.tv/find-tournaments/-frag-pro-shooter-tournaments					200					62
 88					Golf Blitz Tournaments					https://www.game.tv/find-tournaments/-golf-blitz-tournaments					200					64
 89					????????????? (Dragon Quest Rivals) Tournaments					https://www.game.tv/find-tournaments/doragonkuesutoraibaruzu-dragon-quest-rivals-tournaments					200					7
-90					Yu-Gi-Oh! TCG Tournaments					https://www.game.tv/find-tournaments/_yu-gi-oh!_tcg-tournaments					200					30
+90					Yu-Gi-Oh! TCG Tournaments					https://www.game.tv/find-tournaments/_yu-gi-oh!_tcg-tournaments					200					31
 91					Werewolf Online Tournaments					https://www.game.tv/find-tournaments/-werewolf-online-tournaments					200					19
 92					Pokemon Showdown Tournaments					https://www.game.tv/find-tournaments/-pokemon-showdown-tournaments					200					65
 93					NBA 2k20 Tournaments					https://www.game.tv/find-tournaments/-nba-2k20-tournaments					200					66
